@@ -20,7 +20,7 @@ better you'll get.
 
 Starter code is available in [`lib/challenge.js`](lib/challenge.js). 
 
-**Make a commit after each prompt.**
+### Important: **Make a commit after each prompt.**
 
 ## Requirements
 
